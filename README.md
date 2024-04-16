@@ -6,3 +6,12 @@
 - 👀 Looking for an intership
 - ⚡ Currenttly studying and improving my skills on Machine Learning and Computer Vision
 
+## Tecnologies and tools
+### Data Science
+- ![Python](https://www.python.org/): > 2  years of experience
+
+### Web Development
+- ![JavaScript](https://www.python.org/): > 2  years of experience
+
+---
+## Contact
