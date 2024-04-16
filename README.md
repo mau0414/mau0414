@@ -8,10 +8,18 @@
 
 ## Tecnologies and tools
 ### Data Science
-- ![Python](https://www.python.org/): > 2  years of experience
+- Python: more than 2 years of experience
+- Experience with PyTorch, OpenCV, SkLearn, Matplotlib, Pandas and Numpy
 
 ### Web Development
-- ![JavaScript](https://www.python.org/): > 2  years of experience
+- JavaScript more than 2 years of experience
+- FrontEnd development with React
+- BackEnd development of API Rest with Nodejs and MySQL
+
+### Other tecnologies
+- C and C++: more than 2 years of experience
 
 ---
 ## Contact
+- ![Linkedin](https://www.linkedin.com/in/maur%C3%ADcio-gallera-de-almeida-061a6a226/)
+- Email: galmeidamauricio12@gmail.com
