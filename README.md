@@ -3,7 +3,7 @@
 - 🎓 Graduating in Computer Engineering at UFSCar: 7/10 semesters
 - 🤩 Passionate about Computer Network, Web Development, Distributed Systems, Machine Learning and Computer Vision
 - 💡 Project called JS-Distributor published at npm about distributing monolithic applications across a microservices-based architecture programmed in JavaScript: https://www.npmjs.com/package/js-distributor
-- 👀 Looking for an intership
+- 🏦 Software Engineer at Nubank
 - ⚡ Currenttly studying and improving my skills on Machine Learning and Computer Vision
 
 ## Tecnologies and tools
