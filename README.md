@@ -14,9 +14,10 @@
 ### Web Development
 - JavaScript more than 2 years of experience
 - FrontEnd development with React
-- BackEnd development of API Rest with Nodejs and MySQL
+- BackEnd development of API Rest with Nodejs, Spring Boot and MySQL
 
 ### Other tecnologies
+- Clojure: 1 year of experience
 - C and C++: more than 2 years of experience
 
 ---
