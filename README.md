@@ -1,24 +1,24 @@
 ### Hi there 👋, I am Maurício G. de Almeida
 
-- 🎓 Graduating in Computer Engineering at UFSCar: 8/10 semesters
-- 🤩 Passionate about Computer Network, Web Development, Distributed Systems, Machine Learning and Computer Vision
+- 🎓 Graduated in Computer Engineering at UFSCar
+- 🤩 Passionate about Computer Network, Web Development and Distributed Systems
 - 💡 Project called JS-Distributor published at npm about distributing monolithic applications across a microservices-based architecture programmed in JavaScript: https://www.npmjs.com/package/js-distributor
-- 🏦 Software Engineer at Nubank
-- ⚡ Currenttly studying and improving my skills on Machine Learning and Computer Vision
+- 🏦 Software Engineer I at Nubank
 
 ## Tecnologies and tools
+
+### Development
+- JavaScript more than 2 years of experience
+- FrontEnd development with React
+- BackEnd development with Clojure, Datomic, Nodejs, Spring Boot and MySQL
+
+### Other tecnologies
+- Clojure: 1.5 year of experience
+- C and C++: more than 2 years of experience
+
 ### Data Science
 - Python: more than 2 years of experience
 - Experience with PyTorch, OpenCV, SkLearn, Matplotlib, Pandas and Numpy
-
-### Web Development
-- JavaScript more than 2 years of experience
-- FrontEnd development with React
-- BackEnd development of API Rest with Nodejs, Spring Boot and MySQL
-
-### Other tecnologies
-- Clojure: 1 year of experience
-- C and C++: more than 2 years of experience
 
 ---
 ## Contact
