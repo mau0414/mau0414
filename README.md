@@ -6,7 +6,7 @@
 
 ## Main Projects 💡
 
-- [Project called JS-Distributor published at npm](https://www.npmjs.com/package/js-distributor) about distributing monolithic applications across a microservices-based architecture programmed in JavaScript: Funded by FAPESP, its paper that I co-authored was presented at CBSoft 2025 and received the conference's Highlight Artifact Award.
+- [Project called JS-Distributor published at npm](https://www.npmjs.com/package/js-distributor) about distributing monolithic applications across a microservices-based architecture programmed in JavaScript: Funded by FAPESP, its paper that I co-authored was presented at CBSoft 2025 and received the conference's Highlight Artifact Award. Original repository: https://github.com/dlucredio/js-distributor
 - [deliverability-relay](https://github.com/mau0414/deliverability-relay) is **an outbound email relay (MTA) in Go** modeled on transactional email providers: resolves recipient MX records via DNS
 and delivers over SMTP directly to destination servers, implementing the full EHLO/STARTTLS/MAIL/RCPT/DATA protocol
 sequence with opportunistic TLS. Built as a learning and portfolio project, with a focus on understanding the real infrastructure problems behind reliable email delivery: SMTP protocol details, DNS-based sender authentication (SPF/DKIM/DMARC), retry/failure classification, caching strategy, and observability.
