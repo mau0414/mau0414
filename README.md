@@ -4,7 +4,7 @@
 - 🤩 Passionate about Computer Network, Backend Development and Distributed Systems
 - 🏦 Software Engineer at Nubank
 
-## Main Projects 💡
+## Main Personal Projects 💡
 
 - [Project called JS-Distributor published at npm](https://www.npmjs.com/package/js-distributor) about distributing monolithic applications across a microservices-based architecture programmed in JavaScript: Funded by FAPESP, its paper that I co-authored was presented at CBSoft 2025 and received the conference's Highlight Artifact Award. Original repository: https://github.com/dlucredio/js-distributor
 - [deliverability-relay](https://github.com/mau0414/deliverability-relay) is **an outbound email relay (MTA) in Go** modeled on transactional email providers: resolves recipient MX records via DNS
